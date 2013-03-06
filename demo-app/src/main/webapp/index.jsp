@@ -8,12 +8,15 @@
 </head>
 <body>
 Current time is now <%= new java.util.Date() %>
-
+Feature A change is here now, isn't it great!
+Another change to feature A
 This is the main branch
 
 change 3!
 
 Change 4
+
+Another change to feature A
 
 </body>
 </html>
