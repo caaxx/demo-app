@@ -7,7 +7,7 @@
 <title>Time Application by Cathal Cleary</title>
 </head>
 <body>
-Current time is <%= new java.util.Date() %>
+Current time is now <%= new java.util.Date() %>
 
 </body>
 </html>
